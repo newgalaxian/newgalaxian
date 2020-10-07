@@ -23,15 +23,15 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🔭 I’m currently learning Flutter().
+- @   Android Developer[Java]
+- 💬 Blogger [CSDEVBIN ] (http://csdevbin.com/),
 - 📫 Reach me: [Twitter - @alam_galaxc](https://twitter.com/alam_galaxc) , 
 
 
 [![Twitter: alam_galaxc](https://img.shields.io/twitter/follow/alam_galaxc?style=social)](https://twitter.com/alam_galaxc)
-[![Linkedin: newgalaxian](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newgalaxian/)](https://www.linkedin.com/in/newgalaxian/)
+[![Linkedin: newgalaxian](https://img.shields.io/badge/-newgalaxian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newgalaxian/)](https://www.linkedin.com/in/newgalaxian/)
 [![GitHub newgalaxian](https://img.shields.io/github/followers/newgalaxian?label=follow&style=social)](https://github.com/newgalaxian)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
 **Languages and Tools:**  
