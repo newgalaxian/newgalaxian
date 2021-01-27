@@ -26,10 +26,10 @@
 - 🔭 I’m currently learning Flutter().
 - @   Android Developer[Java]
 - 💬 Blogger [CSDEVBIN ] (http://csdevbin.com/),
-- 📫 Reach me: [Twitter - @alam_galaxc](https://twitter.com/alam_galaxc) , 
+- 📫 Reach me: [Twitter - @alam_galaxc](https://twitter.com/anwar9alam) , 
 
 
-[![Twitter: alam_galaxc](https://img.shields.io/twitter/follow/alam_galaxc?style=social)](https://twitter.com/alam_galaxc)
+[![Twitter: alam_galaxc](https://img.shields.io/twitter/follow/anwar9alam?style=social)](https://twitter.com/anwar9alam)
 [![Linkedin: newgalaxian](https://img.shields.io/badge/-newgalaxian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newgalaxian/)](https://www.linkedin.com/in/newgalaxian/)
 [![GitHub newgalaxian](https://img.shields.io/github/followers/newgalaxian?label=follow&style=social)](https://github.com/newgalaxian)
 
