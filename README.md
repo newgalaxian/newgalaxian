@@ -26,7 +26,7 @@
 - 🔭 I’m currently learning Flutter().
 - @   Android Developer[Java]
 - 💬 Blogger [CSDEVBIN ] (http://csdevbin.com/),
-- 📫 Reach me: [Twitter - @alam_galaxc](https://twitter.com/anwar9alam) , 
+- 📫 Reach me: [Twitter - @anwar9alam](https://twitter.com/anwar9alam) , 
 
 
 [![Twitter: alam_galaxc](https://img.shields.io/twitter/follow/anwar9alam?style=social)](https://twitter.com/anwar9alam)
