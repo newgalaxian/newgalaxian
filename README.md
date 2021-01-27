@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newgalaxian&label=Views&color=blue&style=plastic" alt="newgalaxian" /> </p>
 
-<a href="https://twitter.com/alam_galaxc">
+<a href="https://twitter.com/anwar9alam">
   <img align="left" alt="Anwar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/newgalaxian">
