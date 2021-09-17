@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newgalaxian&label=Views&color=blue&style=plastic" alt="newgalaxian" /> </p>
 
-<a href="https://twitter.com/anwar9alam">
+<a href="https://twitter.com/anwar_alam4U">
   <img align="left" alt="Anwar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/newgalaxian">
@@ -26,10 +26,10 @@
 - 🔭 I’m currently learning Flutter.
 - @   Android Developer
 - 💬 Blogging,
-- 📫 Reach me: [Twitter - @anwar_alam4U](https://twitter.com/anwar9alam) , 
+- 📫 Reach me: [Twitter - @anwar_alam4U](https://twitter.com/anwar_alam4U) , 
 
 
-[![Twitter: alam_galaxc](https://img.shields.io/twitter/follow/anwar9alam?style=social)](https://twitter.com/anwar_alam4U)
+[![Twitter: anwar_alam4U](https://img.shields.io/twitter/follow/anwar9alam?style=social)](https://twitter.com/anwar_alam4U)
 [![Linkedin: newgalaxian](https://img.shields.io/badge/-newgalaxian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newgalaxian/)](https://www.linkedin.com/in/newgalaxian/)
 [![GitHub newgalaxian](https://img.shields.io/github/followers/newgalaxian?label=follow&style=social)](https://github.com/newgalaxian)
 
