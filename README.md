@@ -23,10 +23,10 @@
 
 
 
-- 🔭 I’m currently learning JavaScript.
+- 🔭 Always learning .
 - @  Android Developer
-- @  Flutter
-- 💬 Blogging,
+- @  Flutter Developer
+- 💬 Blogger,
 - 📫 Reach me: [Twitter - @anwar_alam404](https://twitter.com/anwar_alam404) , 
 
 
