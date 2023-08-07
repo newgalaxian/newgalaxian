@@ -30,7 +30,7 @@
 - 📫 Reach me: [Twitter - @anwar_alam404](https://twitter.com/anwar_alam404) , 
 
 
-[![Twitter: anwar_alam404](https://img.shields.io/twitter/follow/anwar9alam?style=social)](https://twitter.com/anwar_alam404)
+[![Twitter: anwar_alam404](https://img.shields.io/twitter/follow/AnwarAlam?style=social)](https://twitter.com/anwar_alam404)
 [![Linkedin: newgalaxian](https://img.shields.io/badge/-newgalaxian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newgalaxian/)](https://www.linkedin.com/in/newgalaxian/)
 [![GitHub newgalaxian](https://img.shields.io/github/followers/newgalaxian?label=follow&style=social)](https://github.com/newgalaxian)
 
